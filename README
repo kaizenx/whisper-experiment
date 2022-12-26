@@ -1,3 +1,6 @@
 # Whisper Experiment
 
 Fast API and whisper ai experiment
+
+## Run server
+uvicorn main:app --reload 
